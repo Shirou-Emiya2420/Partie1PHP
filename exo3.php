@@ -4,6 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Exo3</title>
+    <link rel="stylesheet" href="style.css">
 </head>
 <body>
     <h1>Exerice 3</h1>
